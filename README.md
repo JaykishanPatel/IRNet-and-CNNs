@@ -2,7 +2,7 @@
 
 ## Alexnet Folder
 
-This is the space where I play around with pytorch and get a sense for the library.
+This is the space where I play around with pytorch and machine learning models. Current work includes weight visualization and fine tuning past models.
 
 #### Current work in the repository
 
