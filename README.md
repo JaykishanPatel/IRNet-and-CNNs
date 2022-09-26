@@ -13,4 +13,4 @@ This is the space where I play around with pytorch and machine learning models (
 
 - Soon to use the Imagenet localization 2014 dataset to train a 2 and 4 hidden layer CNN to perfrom denoising on the images
 - Creating a dataset of geometic shapes with blender to train a CNNs to perform reflectance extraction
-- Creating multiple CNN, deep-CNN and arcitectures to better understand which techniques provide the best results to computation ratio
+- Creating multiple CNN and deep-CNN arcitectures to better understand which techniques provide the best results to computation ratio
